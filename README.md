@@ -1,15 +1,30 @@
 # Hi5 Education Centre
 
-Welcome to Hi5 Education Centre’s repository! This project aims to provide comprehensive educational resources, including lesson notes, schemes of work, textbooks, and other learning materials for primary, secondary, and university levels.
+**Hi5 Education Centre** is an online educational platform offering lesson notices, schemes of work, textbooks, and other academic materials for:
+
+- **Nursery** (Baby, Middle, Top class)
+- **Primary** (Primary 1–7)
+- **Secondary** (Senior 1–6)
+- **University** (Common courses in Uganda)
 
 ## Features
 
-- 📚 Lesson notices and updates
-- 📝 Scheme of work for various subjects and levels
-- 📖 Textbooks and study materials for primary, secondary, and university students
-- 🧑‍🏫 Educational tools and resources for teachers
-- 🎓 Support for academic growth and development at all education levels
+- Colorful, responsive design
+- Separate pages for each education level and class
+- Downloadable resources and PDF previews
+- Contact form for communication
 
-## Screenshots
+## Folder Structure
+## How to Use
 
-![Screenshot](link-to-s
+1. Clone or download the repository.
+2. Open `index.html` in your browser.
+3. Click on any level (e.g., Nursery, Primary) to explore content by class.
+
+## Coming Soon
+
+- Interactive quizzes
+- Video lessons
+- Admin portal for uploading materials
+
+---
