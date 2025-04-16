@@ -1,2 +1,15 @@
-# Hi5-Education-Centre.github.io
-Hi5 Education Centre is a nurturing and learner-centred school located in Wakiso District. We are dedicated to providing quality education that inspires creativity, critical thinking, and lifelong learning. Email: hi5educationcentre@gmail.com Contact: 0702 234 701 
+# Hi5 Education Centre
+
+Welcome to Hi5 Education Centre’s repository! This project aims to provide comprehensive educational resources, including lesson notes, schemes of work, textbooks, and other learning materials for primary, secondary, and university levels.
+
+## Features
+
+- 📚 Lesson notices and updates
+- 📝 Scheme of work for various subjects and levels
+- 📖 Textbooks and study materials for primary, secondary, and university students
+- 🧑‍🏫 Educational tools and resources for teachers
+- 🎓 Support for academic growth and development at all education levels
+
+## Screenshots
+
+![Screenshot](link-to-s
